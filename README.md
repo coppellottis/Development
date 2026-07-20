@@ -1,7 +1,7 @@
 # Development Environment
 
-Ambiente di sviluppo personale configurato con:
-
+Personal development environment for learning purpose.
+Main features include:
 - Windows
 - WSL2
 - Ubuntu
@@ -11,9 +11,6 @@ Ambiente di sviluppo personale configurato con:
 - Python
 - Git/GitHub
 
-## Struttura
+## Structure
 
-- C → progetti in linguaggio C
-- CPP → progetti C++
-- Python → progetti Python
-- University → materiale universitario
+- learning → nothing interesting
