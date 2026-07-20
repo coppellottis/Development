@@ -1,0 +1,24 @@
+# Eseguibili
+hello
+*.out
+*.exe
+
+# File oggetto
+*.o
+*.obj
+
+# Librerie
+*.a
+*.so
+*.dll
+
+# Cartelle di build
+build/
+cmake-build-*/
+
+# File temporanei di VS Code
+.vscode/
+
+# File di sistema
+.DS_Store
+Thumbs.db
